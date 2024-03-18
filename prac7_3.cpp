@@ -3,7 +3,7 @@ using namespace std;
 //devang dhandhukiya
 //chokaso
 //om cgcgcgcgc
-//jbghgv
+//jbghgvgg
 class Complex {
 private:
     int real;
