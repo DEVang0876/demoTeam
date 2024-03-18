@@ -5,6 +5,7 @@ using namespace std;
 //om cgcgcgcgc
 //jbghgvgg
 class Complex {
+    //ok
 private:
     int real;
     int imaginary;
