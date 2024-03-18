@@ -6,6 +6,7 @@ using namespace std;
 //jbghgvgg
 class Complex {
     //ok
+    //ok ok
 private:
     int real;
     int imaginary;
