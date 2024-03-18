@@ -2,10 +2,6 @@
 // yoiu should practice on this file untill project shared
 #include<iostream>
 using namespace std;
-//devang dhandhukiya
-//chokaso
-//om cgcgcgcgc
-//jbghgvgg
 class Complex {
 private:
     int real;
