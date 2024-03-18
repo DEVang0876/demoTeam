@@ -1,9 +1,6 @@
 #include<iostream>
 using namespace std;
-//devang dhandhukiya
-//chokaso
-//om cgcgcgcgc
-//jbghgv
+ /fsufyqwuwervtugbtitivutbetijetq3
 class Complex {
 private:
     int real;
