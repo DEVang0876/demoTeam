@@ -1,3 +1,5 @@
+//this is demo code
+// yoiu should practice on this file untill project shared
 #include<iostream>
 using namespace std;
 //devang dhandhukiya
@@ -5,8 +7,6 @@ using namespace std;
 //om cgcgcgcgc
 //jbghgvgg
 class Complex {
-    //ok
-    //ok ok
 private:
     int real;
     int imaginary;
