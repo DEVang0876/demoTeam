@@ -5,7 +5,7 @@
 using namespace std;
 void devang()
 {
-    cout<<"THIS IS DEVANG HERE";
+    cout<<"THIS IS DEVANG HERE";//okok
 }
 int main()
 {
