@@ -6,7 +6,7 @@ using namespace std;
 void devang()
 {
     cout<<endl<<"THIS IS DEVANG HERE";//okok
-    cout<<endl<<"THIS IS OM HERE";//okok
+    cout<<endl<<"THIS IS OM HERE";//okok// 846 836
 }
 int main()
 {
