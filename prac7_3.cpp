@@ -5,7 +5,7 @@ using namespace std;
 class Complex { // devang here hh
 private:
     int real;
-    int imaginary;
+    int imaginary;//omchoksi
 public:
     Complex(int r, int i) : real(r), imaginary(i) {}
 
