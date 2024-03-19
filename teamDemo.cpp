@@ -5,10 +5,11 @@
 using namespace std;
 void devang()
 {
-    cout<<"THIS IS DEVANG HERE";//okok
+    cout<<endl<<"THIS IS DEVANG HERE";//okok
 }
 int main()
 {
-    cout<<"this is devang";
+    cout<<endl<<"this is devang";
+    devang();
     return 0;
 }
