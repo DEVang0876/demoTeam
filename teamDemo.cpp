@@ -10,7 +10,27 @@ void devang()
 }
 int main()
 {
-    cout<<endl<<"this is devang";
-    devang();
+    //cout<<endl<<"this is devang";
+    //devang();
     return 0;
 }
+// devang working here in main branch
+class complex{
+    float img;
+    float real;
+    public:
+    complex(float rl, float ig);
+    void showcomplex();
+    complex operator +(complex &c);
+
+
+};
+void complex:: showcomplex()
+{
+    cout<<endl<<img<<" + "<<real<<" i";
+}
+complex operator +(complex &c)
+{
+    
+}
+
