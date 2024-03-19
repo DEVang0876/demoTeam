@@ -8,7 +8,7 @@ private:
     int imaginary;//omchoksi
 public:
     Complex(int r, int i) : real(r), imaginary(i) {}
-
+//om 18.00
     Complex operator+(const Complex& c) {
         return Complex(real + c.real, imaginary + c.imaginary);
     }
