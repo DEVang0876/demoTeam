@@ -6,6 +6,7 @@ using namespace std;
 void devang()
 {
     cout<<endl<<"THIS IS DEVANG HERE";//okok
+    cout<<endl<<"THIS IS OM HERE";
 }
 int main()
 {
