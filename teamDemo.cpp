@@ -1,6 +1,6 @@
 //this is demo file 
 //you shoulkd code in this file 
-//everyone make their own function with their name and do something special idea 
+//everyone make their own function with their name and do something special idea 747
 #include<iostream>
 using namespace std;
 void devang()
