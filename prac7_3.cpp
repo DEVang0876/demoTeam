@@ -13,6 +13,7 @@ public:
 //om 18:07
 //18.15
  //18.20
+ //18.26
     Complex operator+(const Complex& c) {
         return Complex(real + c.real, imaginary + c.imaginary);
     }
