@@ -35,5 +35,5 @@ complex operator +(complex &c)
 }
 //its 9"05 pm deveng here//gfyfytffytdtfhghfcgfcc
 //okokok
-// devang here working in master branch
+// devang here working in mhghaster branch
 //okok
