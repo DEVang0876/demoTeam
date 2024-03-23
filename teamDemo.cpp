@@ -22,7 +22,7 @@ class complex{
     complex(float rl, float ig);
     void showcomplex();
     complex operator +(complex &c);
-
+    
 
 };
 void complex:: showcomplex()
@@ -37,3 +37,6 @@ complex operator +(complex &c)
 //okokok
 // devang here working in master branch
 //okok
+
+
+//om choksi 11 : 28 time DEV_OM today
