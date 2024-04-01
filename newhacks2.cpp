@@ -20,3 +20,5 @@ int main() {
     cout << endl;  
     return 0;
 }
+
+//ansh enterd okok
